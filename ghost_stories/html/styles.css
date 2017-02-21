@@ -1,0 +1,14 @@
+body{
+max-width:800px;
+background-color:"rgb(241，229，201)";
+margin:auto;
+}
+h3{
+text-align:center;
+}
+a:link    {color:blue; background-color:transparent; text-decoration:none}
+a:visited {color:pink; background-color:transparent; text-decoration:none}
+a:hover   {color:red; background-color:transparent; text-decoration:underline}
+a:active  {color:yellow; background-color:transparent; text-decoration:underline}
+.class1{
+}
